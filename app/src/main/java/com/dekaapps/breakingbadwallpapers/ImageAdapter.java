@@ -42,7 +42,7 @@ public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.MyViewHolder
 
         return new MyViewHolder(view,listener);
     }
-    //github
+
     @Override
     public void onBindViewHolder( ImageAdapter.MyViewHolder holder, int position) {
 
